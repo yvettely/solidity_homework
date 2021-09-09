@@ -1,1 +1,18 @@
-# solidity_homework
+# Solidity Homework #
+
+## "Looks like we've made our First Contract!" ##
+
+![smart_contract](Images/smart-contract.PNG)
+
+In this homework, I built a smart contract to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic, through an Ethereum-compatible blockchain to help connect financial institutions.
+
+The contract that I created is called AssociateProfitSplitter, which aims to pay the Associate-level employees quickly and easily.
+
+I have used Remix IDE for my code and developed and tested the contract using the Ganache development chain, and pointed MetaMask to Localhost:8545.
+
+The following images show the deployment of the contract and the subsequent tests.
+
+![Level1_Deployment](Images/Level1_Deployment.PNG)
+![Level1_Deposit](Images/Level1_Deposit.PNG)
+![Level1_Ganache_Deposit](Images/Level1_Ganache_Deposit.PNG)
+![Level1_Fallback](Images/Level1_Fallback.PNG)
