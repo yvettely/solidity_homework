@@ -2,7 +2,7 @@
 
 ## "Looks like we've made our First Contract!" ##
 
-![smart_contract](Images/smart-contract.PNG)
+![smart-contract](Images/smart-contract.PNG)
 
 In this homework, I built a smart contract to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic, through an Ethereum-compatible blockchain to help connect financial institutions.
 
@@ -16,3 +16,9 @@ The following images show the deployment of the contract and the subsequent test
 ![Level1_Deposit](Images/Level1_Deposit.PNG)
 ![Level1_Ganache_Deposit](Images/Level1_Ganache_Deposit.PNG)
 ![Level1_Fallback](Images/Level1_Fallback.PNG)
+
+For the next part of the homework, I tested the contract using the Kovan test network.
+
+![Level1_Deployment_Kovan](Images/Level1_Deployment_Kovan.PNG)
+![Level1_Deposit_Kovan](Images/Level1_Deposit_Kovan.PNG)
+![Level1_Deposit_Kovan_Etherscan](Images/Level1_Deposit_Kovan_Etherscan.PNG)
