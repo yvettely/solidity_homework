@@ -2,7 +2,7 @@
 
 ## "Looks like we've made our First Contract!" ##
 
-![smart-contract](Images/smart-contract.PNG)
+![smart-contract](Images/smart-contract.png)
 
 In this homework, I built a smart contract to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic, through an Ethereum-compatible blockchain to help connect financial institutions.
 
