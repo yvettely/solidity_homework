@@ -4,7 +4,7 @@
 
 ![smart-contract](Images/smart-contract.png)
 
-In this homework, I built a smart contract to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic, through an Ethereum-compatible blockchain to help connect financial institutions.
+For this project, I built a smart contract to automate company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic, through an Ethereum-compatible blockchain to help connect financial institutions.
 
 The contract that I created is called AssociateProfitSplitter, which aims to pay the Associate-level employees quickly and easily.
 
